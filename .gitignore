@@ -1,0 +1,19 @@
+# 런타임 산출물 — 도구 자체가 아닌 사용자 데이터
+tasks/emotion-log.jsonl
+tasks/
+.claude/.emotion-state.json
+.claude/hooks/l2-worker.log
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS / 에디터
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
